@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629274135305",
+    "project_id": "ecm2425-coursework-ad245",
+    "storage_bucket": "ecm2425-coursework-ad245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629274135305:android:df6ae3d0e90a36772d21d8",
+        "android_client_info": {
+          "package_name": "com.example.ecm2425coursework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629274135305-19gveqcscbfl5dm8q5bsc6mqcgmhbgu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbDrR0knqmOvHsnsTYv7e47OcK_b3hIkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629274135305-19gveqcscbfl5dm8q5bsc6mqcgmhbgu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

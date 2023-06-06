@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    android:background="@drawable/note_backing">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recyler_note_title"
+        android:textColor="@color/black"
+        android:text="Note title"
+        android:textStyle="bold"
+        android:textSize="18dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recyler_note_content"
+        android:text="Note preview"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:textSize="18dp"
+        android:textColor="@color/black"
+        android:layout_margin="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recyler_note_date"
+        android:text="Time"
+        android:textSize="14dp"
+        android:textColor="@color/black"
+        android:gravity="right"
+        android:layout_marginRight="6dp"/>
+
+</LinearLayout>
